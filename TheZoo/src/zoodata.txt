@@ -1,0 +1,13 @@
+333666  goku            Oviparous       Crocodile       4 0
+000000  kevin          Mammal          Bat             0 12
+123360  Carl           Oviparous       Crocodile       0 0
+321360  Jim            Oviparous       Pelican         0 0
+912360  Cadskal        Oviparous       Goose           0 0
+366500  limen          Mammal          Whale           0 0
+366500  Finon          Mammal          SeaLion         0 0
+324500  batly          Mammal          Bat             0 1
+310000  Rolands        Mammal          SeaLion         0 1
+100000  lomney w       Mammal          Whale           0 1
+920060  steve I        Oviparous       Crocodile       0 0
+676860  Polly wa       Oviparous       Pelican         0 0
+985600  Killer G       Oviparous       Goose           0 0
